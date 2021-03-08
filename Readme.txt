@@ -1,3 +1,7 @@
+Bitcoin Momentum Trading Strategy
+Using historical data to predict High and Low signal for Bitcoin trading.
+The notebook is inspired by the book Machine Learning and Data Science Blueprints for Finance by Hariom Tatsat, Sahil Puri, and Brad Lookabaugh.
+
 Data source 
 Description:https://www.kaggle.com/mczielinski/bitcoin-historical-data
 Context
