@@ -1,0 +1,5 @@
+klib==0.1.5
+xgboost==1.3.3
+ta==0.7.0
+timer==0.1.0
+imblearn==0.0
